@@ -1,0 +1,9 @@
+var myAge = 22;
+console.log(myAge);
+ var my_firstName = "ibrar";
+ console.log(my_firstName);
+ var _myLastName ="bilal";
+ console.log(_myLastName);
+
+ var name = "ibrar";
+ console.log("My name is " + name);
